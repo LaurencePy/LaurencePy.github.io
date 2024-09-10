@@ -1,10 +1,10 @@
-title: Laurence Eaton
+title: Jekyll Serial Programmer
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Laurence Eaton
-  email: 
+  name: Sharad Raj Singh Maurya
+  email: dev_sharad@outlook.com
 
 plugins:
   - jemoji
