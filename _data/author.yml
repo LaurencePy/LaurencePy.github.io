@@ -8,8 +8,9 @@ description: "
   <br/>
 "
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/laurence-eaton
   - title: github
     url: https://github.com/laurencepy
+  - title: linkedin
+    url: https://www.linkedin.com/in/laurence-eaton
+  
 
