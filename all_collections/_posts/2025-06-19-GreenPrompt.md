@@ -4,11 +4,13 @@ title: GreenPrompt
 date: 2025-06-19
 categories: [javascript, HTML, CSS, Chrome extension]
 ---
-![GreenPrompt](https://github.com/user-attachments/assets/1c01e782-9e7b-417e-bb61-731d9c6c4d81)
+![GreenPrompt](./assets/GreenPrompt-title-small.png)
+
+[Repository](https://github.com/LaurencePy/GreenPromptV2)
 
 [Open on web store](https://chromewebstore.google.com/detail/greenprompt/ojkbbbkllijlcdbjijcgcphebnjdonji)
 
-GreenPrompt is a **free chrome extension** that rewrites your AI prompts to be shorter and more efficient. 
+GreenPrompt is a free chrome extension that rewrites your AI prompts to be shorter and more efficient. 
 
 By minimising unnecessary processing, it reduces wasted energy and helps make your daily AI use more sustainable.
 We use a highly efficient and low cost AI model (Mixtral-8x7B-Instruct-v0.1) through Huggingface to refine your prompt before it reaches a more powerful model such as GPT-4.
@@ -17,9 +19,9 @@ This initial step removes unnecessary information whilst preserving your prompt'
 
 Simply paste in your prompt, press optimise, and your new efficient prompt will be copied to your clipboard and ready to use!
 
+![GreenPrompt-page](./assets/GreenPrompt-page.png)
 
 
-[Repository](https://github.com/LaurencePy/GreenPromptV2)
 
 Privacy Policy for GreenPrompt
 
