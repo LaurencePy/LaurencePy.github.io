@@ -4,7 +4,6 @@ title: GreenPrompt
 date: 2025-06-19
 categories: [javascript, HTML, CSS, Chrome extension]
 ---
-![GreenPrompt](./assets/GreenPrompt-title-small.png)
 
 [Repository](https://github.com/LaurencePy/GreenPromptV2)
 
@@ -18,9 +17,6 @@ We use a highly efficient and low cost AI model (Mixtral-8x7B-Instruct-v0.1) thr
 This initial step removes unnecessary information whilst preserving your prompt's functional meaning. This means the larger, more energy-intensive model has less data to analyse, leading to a significant overall reduction in processing and energy use.
 
 Simply paste in your prompt, press optimise, and your new efficient prompt will be copied to your clipboard and ready to use!
-
-![GreenPrompt-page](./assets/GreenPrompt-page.png)
-
 
 
 Privacy Policy for GreenPrompt
